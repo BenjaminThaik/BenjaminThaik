@@ -4,7 +4,7 @@ Hi 👋 My name is Benjamin Thaik
 ECE Student at University of Illinois Urbana-Champaign
 ------------------------------------------------------
 
-I'm a sophmore pursuing a bachelor's degree in Electrical Engineering and a minor in Semiconductor Engineering. I have been learning to code in Arduino C, C and Python since high school. In my second year of college, I have learned about the basics of Assembly through lc3 and how to use Kicad and MCUExpresso through the club Illini Solar Car.
+I'm a senior pursuing a bachelor's degree in Electrical Engineering and a minor in Semiconductor Engineering. I have been learning to code in Arduino C, C and Python since high school. In my second year of college, I have learned about the basics of Assembly through lc3 and how to use Kicad and MCUExpresso through the club Illini Solar Car.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [Personal Website](http://benjaminthaik.github.io/Personal-Website/)
