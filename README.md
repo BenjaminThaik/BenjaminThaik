@@ -61,7 +61,7 @@ Automated FPGA‑based testing of 17 TTL logic chips using truth tables, USB key
 ## 🌐 Socials
 
 [GitHub](https://github.com/BenjaminThaik)  
-[LinkedIn](https://www.linkedin.com/in/BenjaminThaik)
+[LinkedIn](https://www.linkedin.com/in/benjamin-thaik-8b6a142a9/)
 
 ---
 
